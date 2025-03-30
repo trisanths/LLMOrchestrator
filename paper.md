@@ -8,7 +8,6 @@ tags:
   - Chain-of-Thought
   - Natural Language Processing
   - Computational Social Science
-  - AI Safety
 authors:
   - name: Trisanth Srinivasan
     orcid: 0009-0009-7588-7498
