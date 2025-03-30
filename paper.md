@@ -16,7 +16,7 @@ authors:
 affiliations:
  - name: Cyrion Labs
    index: 1
-date: 5 June 2024
+date: 30 March 2025
 bibliography: paper.bib
 license: MIT
 ---

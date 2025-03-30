@@ -197,8 +197,8 @@ If you use this software in your research, please cite:
 ```bibtex
 @software{llmorchestrator2024,
   author = {Srinivasan, Trisanth},
-  title = {LLMOrchestrator: A Framework for Enhancing LLM Outputs Through Multi-Model Orchestration and Chain Reasoning},
-  year = {2024},
+  title = {LLMOrchestrator: A Multi-Model LLM Orchestration Framework for Reducing Bias and Iterative Reasoning},
+  year = {2025},
   publisher = {GitHub},
   url = {https://github.com/builtbypyro/LLMOrchestrator}
 }
