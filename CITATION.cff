@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Srinivasan
+    given-names: Trisanth
+    orcid: 0009-0009-7588-7498
+title: "LLMOrchestrator: A Framework for Orchestrating and Optimizing Large Language Model Interactions"
+version: 0.1.0
+date-released: 2024-03-30
+url: "https://github.com/builtbypyro/LLMOrchestrator"
+license: MIT
+type: software 
