@@ -1,27 +1,25 @@
 ---
-
-title: 'LLMOrchestrator: A Multi-Model LLM Orchestration Framework'
+title: 'LLMOrchestrator: A Multi-Model LLM Orchestration Framework for Reducing Bias and Iterative Reasoning'
 tags:
-
-* Python
-* LLM
-* AI
-* Orchestration
-* Chain-of-Thought
-* NLP
-* Computational Social Science
-  authors:
-* name: Trisanth Srinivasan
-  orcid: 0009-0009-7588-7498
-  affiliation: '1'
-  affiliations:
-* name: Cyrion Labs
-  index: 1
-  date: 30 March 2025
-  bibliography: paper.bib
-  license: MIT
-
+  - Python
+  - LLM
+  - AI
+  - Orchestration
+  - Chain-of-Thought
+  - Natural Language Processing
+  - Computational Social Science
+authors:
+  - name: Trisanth Srinivasan
+    orcid: 0009-0009-7588-7498
+    affiliation: '1'
+affiliations:
+ - name: Cyrion Labs
+   index: 1
+date: 30 March 2025
+bibliography: paper.bib
+license: MIT
 ---
+
 
 # Summary
 
