@@ -31,13 +31,7 @@ Research on LLMs extends beyond single prompts; it demands diverse perspectives,
 
 # Core Capabilities
 
-* **Model Abstraction:** `OpenAIModel` and `LocalModel` classes wrap API calls or local inference.
-* **Custom Generators/Verifiers:** Plug in Python-based logic or LLMs for generation and evaluation.
-* **Iterative Refinement:** Controlled loops guided by `max_iterations` and `max_verifications` parameters.
-* **Prompt Management:** `PromptTemplate` for systematic prompt variation.
-* **Performance Monitoring:** `ValidationMetrics` track token counts, times, and verifier scores.
-* **Parallel Execution & Caching:** `execute_parallel` and `OutputCache` accelerate development and large-scale experiments.
-
+The framework abstracts models via OpenAIModel and LocalModel classes that handle API calls or local inference, and supports custom generators and verifiers using Python-based logic or LLMs for generation and evaluation. Controlled iterative refinement loops use max_iterations and max_verifications, while PromptTemplate manages systematic prompt variation. ValidationMetrics track token counts, runtimes, and verifier scores, and execute_parallel with OutputCache accelerates scalable experiments.
 # Architecture Overview
 
 ## Controller
